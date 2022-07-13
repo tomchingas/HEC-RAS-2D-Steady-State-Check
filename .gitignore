@@ -1,0 +1,8 @@
+# Distribution
+env/
+
+# Data
+# exclude data but keep folder
+data/*
+!data/.gitkeep 
+
