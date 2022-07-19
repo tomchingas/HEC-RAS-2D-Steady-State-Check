@@ -1,3 +1,6 @@
+django
+django-environ
+pillow
 pandas
 numpy
 h5py
